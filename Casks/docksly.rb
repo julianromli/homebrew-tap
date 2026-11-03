@@ -1,6 +1,6 @@
 cask "docksly" do
-  version "1.2.0"
-  sha256 "8500de5a10450ea36cd9cf6f1b9d47ef3b6ecb1576e7212a7cdf4ed3f5afee5d"
+  version "1.3.0"
+  sha256 "eef259b945d09ff627c6e354cccdd7162d715ea5ae2386d5bcf03de8763343a2"
 
   url "https://github.com/julianromli/docksly/releases/download/v#{version}/Docksly-#{version}.dmg"
   name "Docksly"
